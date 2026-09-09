@@ -16,12 +16,12 @@
 
 
 # VS Code
-**Инструкция** - \
-**Activity bar** -\
-**Side bar** - \
-**Editor** - \
-**Status bar** -\
-**Panel** - 
+**Инструкция** <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc6a7a3c-af2b-4314-a33f-d3752207a8ca" />
+**Activity bar** - слева, переключение между интерфейсами поиска, проекта, гита\
+**Side bar** - между editor и activity bar, вид на проект ветками\
+**Editor** - посередине, окно с кодом, можно открывать множество\
+**Status bar** - снизу, информация о проекте и файлах\
+**Panel** - между editor и status bar, терминал, информация и ошибки, терминал
 
 # Контрольные вопросы:
 1)\
