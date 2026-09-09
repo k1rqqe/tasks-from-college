@@ -15,7 +15,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/135ab709-f9ee-4cb4-923d-607b30e0e57a" />
 
 
-# VS Code
+# VS Code:
 **Инструкция** <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc6a7a3c-af2b-4314-a33f-d3752207a8ca" />
 **Activity bar** - слева, переключение между интерфейсами поиска, проекта, гита\
 **Side bar** - между editor и activity bar, вид на проект ветками\
