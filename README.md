@@ -11,7 +11,7 @@
 **Gutter** - между project tool window и editor, показывает где происходят ошибки и вылеты кода\
 **Tool windows** - между editor и navigation bar, позволяет проводить работу над кодом, осуществляет поиск в исходниках, интегрирован с дебаггером и контролем системы\
 **Status bar** - справа снизу, показывает статус проекта и IDE, предупреждает и показывает информацию о проекте\
-**Первый проект** - test.py
+**Первый проект** - [test.py](https://github.com/k1rqqe/tasks-from-college/blob/main/test.py)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/135ab709-f9ee-4cb4-923d-607b30e0e57a" />
 
 
